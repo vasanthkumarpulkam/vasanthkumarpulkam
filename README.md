@@ -1,6 +1,6 @@
 <!-- Profile README — renders at the top of github.com/vasanthkumarpulkam -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,60:0B6E63,100:00B4A6&text=Vasanth%20Kumar%20Pulkam&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=Data%20and%20AI%20Engineer&descSize=18&descAlignY=54&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,60:0B6E63,100:00B4A6&text=Vasanth%20Kumar%20Pulkam&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=Data%20and%20AI%20Engineer&descSize=18&descAlignY=54" width="100%" />
 
 <div align="center">
 
