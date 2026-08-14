@@ -1,6 +1,6 @@
 <!-- Profile README — renders at the top of github.com/vasanthkumarpulkam -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,60:0B6E63,100:00B4A6&text=Vasanth%20Kumar%20Pulkam&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=Data%20%26%20AI%20Engineer&descSize=18&descAlignY=54&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,60:0B6E63,100:00B4A6&text=Vasanth%20Kumar%20Pulkam&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=Data%20and%20AI%20Engineer&descSize=18&descAlignY=54&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -143,8 +143,8 @@ Multi-sided marketplaces are mostly a permissions problem. My Supabase builds en
 
 <div align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=vasanthkumarpulkam&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00B4A6&icon_color=00B4A6&bg_color=0D1117" alt="GitHub stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthkumarpulkam&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=00B4A6&bg_color=0D1117" alt="Top languages" />
+<img width="54%" src="https://raw.githubusercontent.com/vasanthkumarpulkam/vasanthkumarpulkam/main/assets/metrics.svg" alt="GitHub metrics" />
+<img width="34%" src="https://raw.githubusercontent.com/vasanthkumarpulkam/vasanthkumarpulkam/main/assets/metrics-languages.svg" alt="Most used languages" />
 
 <br/>
 
@@ -155,8 +155,6 @@ Multi-sided marketplaces are mostly a permissions problem. My Supabase builds en
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vasanthkumarpulkam&bg_color=0D1117&color=00B4A6&line=00B4A6&point=FFFFFF&area=true&hide_border=true&days=30" alt="Contribution activity" />
 
 <br/>
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=vasanthkumarpulkam&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
 
 </div>
 
