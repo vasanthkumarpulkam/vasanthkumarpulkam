@@ -148,7 +148,7 @@ Multi-sided marketplaces are mostly a permissions problem. My Supabase builds en
 
 <br/>
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=vasanthkumarpulkam&border_radius=6&hide_border=true&theme=tokyonight&ring=00B4A6&fire=00B4A6&currStreakLabel=00B4A6&background=0D1117" alt="GitHub streak" />
+<img width="54%" src="https://raw.githubusercontent.com/vasanthkumarpulkam/vasanthkumarpulkam/main/assets/metrics-calendar.svg" alt="Contribution calendar" />
 
 <br/><br/>
 
