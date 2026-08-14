@@ -37,3 +37,14 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used
           config_output: svg
+
+      - name: Contribution calendar card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics-calendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: vasanthkumarpulkam
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_output: svg
